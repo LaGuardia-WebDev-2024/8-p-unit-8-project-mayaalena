@@ -1,14 +1,15 @@
 @font-face{
-  font-family: water;
+  font-family: "Rubik Bubbles", serif;
   src: url("https://cdn.glitch.global/97f7bbb3-2cd9-4b34-bbf2-d0a28c71f10b/Water%20Park.ttf?v=1738683075854");
 }
 
 body {
-  background-color: aliceblue;
+  background-image: url(https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/TNC_PC2022_63bed9c5f30bfc303144eb74f072df40-original_JPG.Jpg?crop=0%2C562%2C2500%2C1375&wid=4000&hei=2200&scl=0.625);
   text-align: center;
-  color: navy;
+  color: HotPink;
   margin: auto;
-  font-family: water;
+   font-family: "Rubik Bubbles", serif;
+  
 }
 
 h1{
@@ -16,7 +17,7 @@ h1{
 }
 
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
+  background-image: url("https://img.freepik.com/premium-photo/cartoon-illustration-coral-reef-with-colorful-corals-fish-generative-ai_900396-29933.jpg");
   background-size: 600px 400px;
   border-radius: 300px;
   border: 5px solid white;
